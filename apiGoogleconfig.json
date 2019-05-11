@@ -1,0 +1,6 @@
+{
+    "clientId": "taff-198418",
+    "apiKey": "AIzaSyA1wE1WRLnnCiI_h3g6CXDFRqz4DwGGvIk",
+    "scope": "https://www.googleapis.com/auth/calendar",
+    "discoveryDocs": ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"]
+  }
